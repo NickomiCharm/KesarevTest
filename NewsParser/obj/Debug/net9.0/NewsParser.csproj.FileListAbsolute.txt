@@ -1,0 +1,17 @@
+C:\Users\Trues\Desktop\KesarevTest\NewsParser\bin\Debug\net9.0\NewsParser.exe
+C:\Users\Trues\Desktop\KesarevTest\NewsParser\bin\Debug\net9.0\NewsParser.deps.json
+C:\Users\Trues\Desktop\KesarevTest\NewsParser\bin\Debug\net9.0\NewsParser.runtimeconfig.json
+C:\Users\Trues\Desktop\KesarevTest\NewsParser\bin\Debug\net9.0\NewsParser.dll
+C:\Users\Trues\Desktop\KesarevTest\NewsParser\bin\Debug\net9.0\NewsParser.pdb
+C:\Users\Trues\Desktop\KesarevTest\NewsParser\bin\Debug\net9.0\HtmlAgilityPack.dll
+C:\Users\Trues\Desktop\KesarevTest\NewsParser\obj\Debug\net9.0\NewsParser.csproj.AssemblyReference.cache
+C:\Users\Trues\Desktop\KesarevTest\NewsParser\obj\Debug\net9.0\NewsParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trues\Desktop\KesarevTest\NewsParser\obj\Debug\net9.0\NewsParser.AssemblyInfoInputs.cache
+C:\Users\Trues\Desktop\KesarevTest\NewsParser\obj\Debug\net9.0\NewsParser.AssemblyInfo.cs
+C:\Users\Trues\Desktop\KesarevTest\NewsParser\obj\Debug\net9.0\NewsParser.csproj.CoreCompileInputs.cache
+C:\Users\Trues\Desktop\KesarevTest\NewsParser\obj\Debug\net9.0\NewsParser.csproj.Up2Date
+C:\Users\Trues\Desktop\KesarevTest\NewsParser\obj\Debug\net9.0\NewsParser.dll
+C:\Users\Trues\Desktop\KesarevTest\NewsParser\obj\Debug\net9.0\refint\NewsParser.dll
+C:\Users\Trues\Desktop\KesarevTest\NewsParser\obj\Debug\net9.0\NewsParser.pdb
+C:\Users\Trues\Desktop\KesarevTest\NewsParser\obj\Debug\net9.0\NewsParser.genruntimeconfig.cache
+C:\Users\Trues\Desktop\KesarevTest\NewsParser\obj\Debug\net9.0\ref\NewsParser.dll
